@@ -82,6 +82,12 @@ Are you a developer passionate about open-source technology? We’re always open
 
 ## Featured Videos
 
+<a href="https://youtu.be/ZVm_hG70rWg">
+    <img src="https://img.youtube.com/vi/ZVm_hG70rWg/0.jpg" width="300">
+</a>
+<a href="https://youtu.be/xM2ABCVaMgA">
+    <img src="https://img.youtube.com/vi/xM2ABCVaMgA/0.jpg" width="300">
+</a>
 <a href="https://youtu.be/MF2BLiTDwA0?si=kL7Qg4TfVI9mBl13">
     <img src="https://img.youtube.com/vi/MF2BLiTDwA0/0.jpg" width="300">
 </a>
