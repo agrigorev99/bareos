@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/bareos/bareos/master/docs/manuals/images/bareos-full-logo.png" alt="Bareos" width="50%" height="50%" />
+# <img src="bareos-github-banner.png" alt="Bareos" width="100%" height="100%" />
 
 ### Bareos
 
